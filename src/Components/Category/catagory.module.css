@@ -19,6 +19,9 @@
   padding: 5px;
   margin-left: 15px;
 }
+/* .category__container{
+  overflow-x: scroll
+} */
 .category p {
   font-size: 12px;
   font-weight: bold;

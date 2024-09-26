@@ -32,9 +32,9 @@ function ProductCard({ product, flex, renderDesc, renderAdd }) {
       }`}
     >
       <Link to={`/products/${id}`}>
-      <a href="">
+      {/* <a href=""> */}
         <img src={image} alt="" className={classes.img_container} />
-      </a>
+      {/* </a> */}
       </Link>
       <div>
         <h3>{title}</h3>
